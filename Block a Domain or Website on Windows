@@ -1,0 +1,9 @@
+
+%windir%\system32\drivers\etc\
+%SystemRoot%\System32\drivers\etc\
+
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
